@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/sdjj930nbj29f1jo?svg=true)](https://ci.appveyor.com/project/DariaZolotoreva/pageobject-ibank)
